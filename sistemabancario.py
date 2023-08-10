@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 26 15:11:05 2023
 
-@author: CSP1678
+@author: Jaqueline Boeno - CSP1678
 """
 
 menu = """
